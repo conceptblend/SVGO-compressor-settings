@@ -94,7 +94,7 @@
     },
     {
       "name": "removeHiddenElems",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "removeEmptyText",
@@ -106,7 +106,7 @@
     },
     {
       "name": "moveElemsAttrsToGroup",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "moveGroupAttrsToElems",
@@ -118,7 +118,7 @@
     },
     {
       "name": "convertPathData",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "convertTransform",
@@ -173,11 +173,11 @@
     },
     {
       "name": "removeStyleElement",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "removeScriptElement",
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "addAttributesToSVGElement",
