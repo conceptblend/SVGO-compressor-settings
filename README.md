@@ -1,5 +1,5 @@
 # SVGO-compressor-settings
-Saved, preferred settings for the Sketch SVGO compressor plugin
+My preferred settings for the Sketch SVGO compressor plugin
 
 ### Modified settings
 ```javascript
